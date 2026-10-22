@@ -1,5 +1,6 @@
 # CPE010_CPE21S3_DOMINGO
 
+Domingo, Rodney C.
 CPE 010: Data Structures and Algorithms
 
 Technological Institute of the Philippines

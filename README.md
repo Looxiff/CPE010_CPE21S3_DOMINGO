@@ -31,94 +31,11 @@ CO 3: Build efficient algorithms based on selected data structures using good pr
 
 📚 Course Topics & Outline
 
+# BRANCHES
 🔹 Prelim Period
-
-I. Course Introduction
-
-TIP Vision and Mission
-
-TIP Graduate Attributes / Institutional Learning Outcomes
-
-Program Educational Objectives / Student Outcomes
-
-Course Syllabus, Course Requirements, and AI Policy
-
-Orientation for Industry and Laboratory Software and Tools
-
-II. Introduction to Data Structures and Algorithm Analysis
-
-C++ Programming Review
-
-Abstract Data Types (ADTs)
-
-Space and Time Complexity
-
-Algorithm Analysis Techniques
-
-III. Arrays and Linked Lists
-
-Dynamic Memory Allocation
-
-Singly Linked Lists
-
-Doubly Linked Lists
-
-Circular Linked Lists
-
-IV. Stacks
-
-Stack Implementation using Arrays
-
-Stack Implementation using Linked Lists
-
-Implementation in C++ and Problem Solving
 
 🔹 Midterm Period
 
-I. Queues
-
-Queue Implementation using Arrays
-
-Queue Implementation using Linked Lists
-
-Implementation in C++ and Problem Solving
-
-II. Searching Techniques
-
-Linear Search
-
-Binary Search
-
-Hashing
-
-III. Sorting Algorithms
-
-Basic Sorting Algorithms
-
 🔹 Final Period
 
-I. Tree ADT
-
-General and Binary Search Trees (BST)
-
-AVL Trees
-
-Traversal Algorithms
-
-Problem Solving using Trees
-
-II. Graph ADT
-
-Adjacency Matrix and Adjacency List Representations
-
-Breadth-First Search (BFS)
-
-Depth-First Search (DFS)
-
-Problem Solving using Graphs
-
-III. Advanced Algorithm Analysis
-
-Theoretical and Experimental Methods in Measuring Time
-
-Time Complexity Classes
+# Please access each branches to see the files
